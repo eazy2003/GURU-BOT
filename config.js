@@ -51,8 +51,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'SMC-HUB'
-global.premium = 'false
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.premium = 'false'
+global.packname = 'KHAN' 
 global.author = 'Otter' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
